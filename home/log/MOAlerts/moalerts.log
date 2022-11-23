@@ -1,0 +1,137 @@
+2020-11-23 21:30:43,759 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MultipleDataSourcesWithSpringBootApplication on furqan-ThinkPad-T430s with PID 8672 (started by furqan in /home/furqan/Habib Projects/MOAlerts)
+2020-11-23 21:30:43,778 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-11-23 21:30:52,388 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MultipleDataSourcesWithSpringBootApplication in 9.935 seconds (JVM running for 10.917)
+2020-11-23 21:31:00,282 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Total Traffic Count 421
+2020-11-23 21:31:00,634 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Current Time Stamp 21:31:00.634
+2020-11-23 21:31:00,634 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:31:00.634 Number Of Messages Were 421 And Average Mo is 200
+2020-11-23 21:31:00,790 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Telenor Count at 2020-11-23 21:25:00.01 were13
+2020-11-23 21:31:00,825 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Warid Count at 2020-11-23 21:25:00.01 were24
+2020-11-23 21:31:00,850 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Zong Count at 2020-11-23 21:25:00.01 were73
+2020-11-23 21:31:00,874 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Ufone Count at 2020-11-23 21:25:00.01 were21
+2020-11-23 21:31:00,896 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Mobilink Count at 2020-11-23 21:25:00.01 were290
+2020-11-23 21:31:01,156 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Mobilink Counts21
+2020-11-23 21:31:01,249 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:31:01.249Zong
+2020-11-23 21:31:01,250 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:31:01.250Mobilink
+2020-11-23 21:31:01,285 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Zong Counts21
+2020-11-23 21:31:01,472 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:31:01.472Zong
+2020-11-23 21:31:01,473 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:31:01.473Mobilink
+2020-11-23 21:32:00,070 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Total Traffic Count 417
+2020-11-23 21:32:00,179 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Current Time Stamp 21:32:00.179
+2020-11-23 21:32:00,179 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:32:00.179 Number Of Messages Were 417 And Average Mo is 200
+2020-11-23 21:32:00,305 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Telenor Count at 2020-11-23 21:26:00.0 were11
+2020-11-23 21:32:00,329 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Warid Count at 2020-11-23 21:26:00.0 were23
+2020-11-23 21:32:00,352 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Zong Count at 2020-11-23 21:26:00.0 were72
+2020-11-23 21:32:00,635 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Ufone Count at 2020-11-23 21:26:00.0 were8
+2020-11-23 21:32:00,736 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Mobilink Count at 2020-11-23 21:26:00.0 were303
+2020-11-23 21:32:00,811 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Mobilink Counts14
+2020-11-23 21:32:00,902 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:32:00.902Zong
+2020-11-23 21:32:00,903 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:32:00.903Mobilink
+2020-11-23 21:32:00,924 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Zong Counts14
+2020-11-23 21:32:01,076 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:32:01.076Zong
+2020-11-23 21:32:01,077 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:32:01.077Mobilink
+2020-11-23 21:33:00,110 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Mobilink Counts14
+2020-11-23 21:33:00,466 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:33:00.466Zong
+2020-11-23 21:33:00,468 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:33:00.468Mobilink
+2020-11-23 21:33:00,511 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Zong Counts14
+2020-11-23 21:33:00,987 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:33:00.987Zong
+2020-11-23 21:33:00,989 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:33:00.989Mobilink
+2020-11-23 21:33:01,137 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Total Traffic Count 414
+2020-11-23 21:33:01,363 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Current Time Stamp 21:33:01.363
+2020-11-23 21:33:01,363 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:33:01.363 Number Of Messages Were 414 And Average Mo is 200
+2020-11-23 21:33:01,478 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Telenor Count at 2020-11-23 21:27:00.99 were16
+2020-11-23 21:33:01,501 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Warid Count at 2020-11-23 21:27:00.99 were29
+2020-11-23 21:33:01,522 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Zong Count at 2020-11-23 21:27:00.99 were72
+2020-11-23 21:33:01,543 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Ufone Count at 2020-11-23 21:27:00.99 were9
+2020-11-23 21:33:01,568 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Mobilink Count at 2020-11-23 21:27:00.99 were288
+2020-11-23 21:34:00,056 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Mobilink Counts22
+2020-11-23 21:34:00,240 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:34:00.240Zong
+2020-11-23 21:34:00,240 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:34:00.240Mobilink
+2020-11-23 21:34:00,261 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Total Charged Zong Counts22
+2020-11-23 21:34:00,341 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:34:00.341Zong
+2020-11-23 21:34:00,345 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-2-thread-1] Checking Charged Average 21:34:00.345Mobilink
+2020-11-23 21:34:00,451 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Total Traffic Count 430
+2020-11-23 21:34:00,559 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Current Time Stamp 21:34:00.559
+2020-11-23 21:34:00,560 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:34:00.560 Number Of Messages Were 430 And Average Mo is 200
+2020-11-23 21:34:00,664 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Telenor Count at 2020-11-23 21:28:00.345 were13
+2020-11-23 21:34:00,915 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Warid Count at 2020-11-23 21:28:00.345 were21
+2020-11-23 21:34:00,966 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Zong Count at 2020-11-23 21:28:00.345 were71
+2020-11-23 21:34:01,042 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Ufone Count at 2020-11-23 21:28:00.345 were24
+2020-11-23 21:34:01,063 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-2-thread-1] Mobilink Count at 2020-11-23 21:28:00.345 were301
+2020-11-23 21:34:17,129 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MultipleDataSourcesWithSpringBootApplication on furqan-ThinkPad-T430s with PID 9002 (started by furqan in /home/furqan/Habib Projects/MOAlerts)
+2020-11-23 21:34:17,144 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-11-23 21:34:24,689 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MultipleDataSourcesWithSpringBootApplication in 8.911 seconds (JVM running for 9.828)
+2020-11-23 21:35:00,266 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Total Traffic Count 402
+2020-11-23 21:35:00,643 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Current Time Stamp 21:35:00.643
+2020-11-23 21:35:00,644 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:35:00.644 Number Of Messages Were 402 And Average Mo is 200
+2020-11-23 21:35:00,766 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Telenor Count at 2020-11-23 21:29:00.011 were17
+2020-11-23 21:35:00,789 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Warid Count at 2020-11-23 21:29:00.011 were20
+2020-11-23 21:35:00,810 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Zong Count at 2020-11-23 21:29:00.011 were54
+2020-11-23 21:35:00,831 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Ufone Count at 2020-11-23 21:29:00.011 were12
+2020-11-23 21:35:01,101 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Mobilink Count at 2020-11-23 21:29:00.011 were299
+2020-11-23 21:35:01,432 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Mobilink Counts13
+2020-11-23 21:35:01,558 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:35:01.558Zong
+2020-11-23 21:35:01,559 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 213
+2020-11-23 21:35:01,560 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Email Not Send For In_IsCharged FOr Zong Application at2020-11-23T21:35:01.560 Number Of Messages Were 13 And Average Mo is 2
+2020-11-23 21:35:01,561 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:35:01.561Mobilink
+2020-11-23 21:35:01,561 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 20 vs 13
+2020-11-23 21:35:07,569 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Sending Email For Charged Msisdn
+2020-11-23 21:35:07,673 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Zong Counts13
+2020-11-23 21:35:07,752 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:35:07.752Zong
+2020-11-23 21:35:07,752 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 24
+2020-11-23 21:35:07,753 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Email Not Send For In_IsCharged FOr Zong Application at2020-11-23T21:35:07.753 Number Of Messages Were 4 And Average Mo is 2
+2020-11-23 21:35:07,754 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:35:07.753Mobilink
+2020-11-23 21:35:07,754 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 20 vs 4
+2020-11-23 21:35:13,557 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Sending Email For Charged Msisdn
+2020-11-23 21:36:00,143 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Total Traffic Count 448
+2020-11-23 21:36:00,282 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Current Time Stamp 21:36:00.282
+2020-11-23 21:36:00,283 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:36:00.283 Number Of Messages Were 448 And Average Mo is 200
+2020-11-23 21:36:00,677 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Telenor Count at 2020-11-23 21:30:00.0 were21
+2020-11-23 21:36:00,703 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Warid Count at 2020-11-23 21:30:00.0 were22
+2020-11-23 21:36:00,729 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Zong Count at 2020-11-23 21:30:00.0 were78
+2020-11-23 21:36:00,753 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Ufone Count at 2020-11-23 21:30:00.0 were11
+2020-11-23 21:36:00,776 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Mobilink Count at 2020-11-23 21:30:00.0 were316
+2020-11-23 21:36:00,878 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Mobilink Counts12
+2020-11-23 21:36:01,024 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:36:01.024Zong
+2020-11-23 21:36:01,025 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 212
+2020-11-23 21:36:01,025 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Email Not Send For In_IsCharged FOr Zong Application at2020-11-23T21:36:01.025 Number Of Messages Were 12 And Average Mo is 2
+2020-11-23 21:36:01,025 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:36:01.025Mobilink
+2020-11-23 21:36:01,026 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 20 vs 12
+2020-11-23 21:39:07,044 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MultipleDataSourcesWithSpringBootApplication on furqan-ThinkPad-T430s with PID 9218 (started by furqan in /home/furqan/Habib Projects/MOAlerts)
+2020-11-23 21:39:07,048 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-11-23 21:39:14,186 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MultipleDataSourcesWithSpringBootApplication in 8.137 seconds (JVM running for 8.953)
+2020-11-23 21:40:00,205 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Total Traffic Count 407
+2020-11-23 21:40:00,497 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Current Time Stamp 21:40:00.497
+2020-11-23 21:40:00,506 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:40:00.506 Number Of Messages Were 407 And Average Mo is 200
+2020-11-23 21:40:00,639 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Telenor Count at 2020-11-23 21:34:00.008 were15
+2020-11-23 21:40:00,669 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Warid Count at 2020-11-23 21:34:00.008 were11
+2020-11-23 21:40:00,697 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Zong Count at 2020-11-23 21:34:00.008 were64
+2020-11-23 21:40:00,720 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Ufone Count at 2020-11-23 21:34:00.008 were15
+2020-11-23 21:40:00,754 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Mobilink Count at 2020-11-23 21:34:00.008 were302
+2020-11-23 21:40:01,183 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Mobilink Counts16
+2020-11-23 21:40:01,264 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:40:01.264Zong
+2020-11-23 21:40:01,265 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:40:01.265Mobilink
+2020-11-23 21:40:01,266 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 20 vs 16
+2020-11-23 21:40:07,433 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Sending Email For Charged Msisdn
+2020-11-23 21:40:07,495 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Zong Counts16
+2020-11-23 21:40:07,593 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:40:07.593Zong
+2020-11-23 21:40:07,594 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 21
+2020-11-23 21:40:14,000 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Sending Email For Charged Msisdn
+2020-11-23 21:40:14,001 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:40:14.001Mobilink
+2020-11-23 21:41:00,073 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Mobilink Counts21
+2020-11-23 21:41:00,206 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:41:00.205Zong
+2020-11-23 21:41:00,207 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:41:00.207Mobilink
+2020-11-23 21:41:00,208 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 20 vs 21
+2020-11-23 21:41:00,209 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Email Not Send For In_IsCharged  For Jazz Application at2020-11-23T21:41:00.209 Number Of Messages Were 21 And Average Mo is 20
+2020-11-23 21:41:00,244 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Total Charged Zong Counts21
+2020-11-23 21:41:00,327 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:41:00.327Zong
+2020-11-23 21:41:00,328 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Mobilink Average Count 24
+2020-11-23 21:41:00,329 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Email Not Send For In_IsCharged FOr Zong Application at2020-11-23T21:41:00.329 Number Of Messages Were 4 And Average Mo is 2
+2020-11-23 21:41:00,330 INFO com.noetic.ucipdb.services.MoAlertsServices [pool-1-thread-1] Checking Charged Average 21:41:00.330Mobilink
+2020-11-23 21:41:00,439 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Total Traffic Count 428
+2020-11-23 21:41:00,757 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Current Time Stamp 21:41:00.757
+2020-11-23 21:41:00,757 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] EMail Not Send For Total_Traffic at2020-11-23T21:41:00.757 Number Of Messages Were 428 And Average Mo is 200
+2020-11-23 21:41:00,959 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Telenor Count at 2020-11-23 21:35:00.332 were14
+2020-11-23 21:41:00,985 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Warid Count at 2020-11-23 21:35:00.332 were24
+2020-11-23 21:41:01,007 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Zong Count at 2020-11-23 21:35:00.332 were66
+2020-11-23 21:41:01,029 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Ufone Count at 2020-11-23 21:35:00.332 were17
+2020-11-23 21:41:01,051 INFO com.noetic.dls.services.DlsMoAlertsServices [pool-1-thread-1] Mobilink Count at 2020-11-23 21:35:00.332 were307
